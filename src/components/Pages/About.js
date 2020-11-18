@@ -3,7 +3,7 @@ import React from 'react'
 function About() {
     return (
         <React.Fragment>
-            <div className="row mt4 ml4 center-self">
+            <div className="row mt4 center-self">
                 <div className="column fade">
                     <p className="txt-xl">Purpose of this webapp is to find usefull JS, CSS librararies easilty and quickly</p>
                     <p className="txt-xl">It's a personally maintained repo where anyone can freely contribute😄</p>

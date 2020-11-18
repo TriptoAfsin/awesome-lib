@@ -3,8 +3,8 @@ import React from 'react'
 function Contact() {
     return (
         <React.Fragment>
-            <div className="row mt4 ml4 center-self">
-                <div className="column float-left center-self ml4">
+            <div className="row mt4 center-self">
+                <div className="column float-left center-self">
                         <a><img src="./imgs/dev.jpg" className="rounded-img shadow" alt="TriptoAfsin" width="180px" height="180px"></img></a>
                 </div>
                 <div className="column float-right pad4">
