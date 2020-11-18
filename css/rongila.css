@@ -515,6 +515,41 @@ img{
     border-radius: 0px !important;
 }
 
+.rad-1{
+    border: none;
+    border-radius: 2px !important;
+}
+
+.rad-2{
+    border: none;
+    border-radius: 4px !important;
+}
+
+.rad-3{
+    border: none;
+    border-radius: 6px !important;
+}
+
+.rad-4{
+    border: none;
+    border-radius: 8px !important;
+}
+
+.rad-5{
+    border: none;
+    border-radius: 10px !important;
+}
+
+.rad-6{
+    border: none;
+    border-radius: 12px !important;
+}
+
+.rounded-img{
+    border: none;
+    border-radius: 50% !important;
+}
+
 .shadow{
     box-shadow: var(--shadow) !important;
 }
@@ -1760,6 +1795,8 @@ footer a:hover{
         height: auto !important;
     }
 
+    
+
     .spacer1{
         margin: 0.5rem 0.5rem !important;
     }
@@ -1873,9 +1910,6 @@ footer a:hover{
         justify-self: center;
         text-align: center !important;
     }
-
-    
-
 }
 /*media query 800px*/
 
