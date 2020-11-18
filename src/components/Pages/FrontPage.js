@@ -94,7 +94,7 @@ function FrontPage() {
         return(
             <React.Fragment>
                <div>
-                   <div className="center-self mb4 mt2">
+                   <div className="center-self mb4 mt2 pad2">
                         <input className="rounded shadow txt-lg pad10" placeholder="Search..." onChange={e => setQuery(e.target.value)} value={query}></input>
                    </div>
                     <div className="card-container" id="card-container">
