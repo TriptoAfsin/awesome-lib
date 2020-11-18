@@ -83,7 +83,7 @@ function FrontPage() {
         return (
             <React.Fragment>
                 <div className="center-self mt4">
-                <div className="lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+                    <a><div className="lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></a>
                 </div>
                
             </React.Fragment>
